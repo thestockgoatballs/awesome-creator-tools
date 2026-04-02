@@ -1,6 +1,7 @@
 # Awesome Creator Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools for content creators - YouTubers, streamers, podcasters, and digital entrepreneurs.
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments from long-form videos. Perfect for streamers, YouTubers, and podcasters.
 
 Whether you're just starting out or scaling your content business, these tools can help you create, grow, and monetize.
 
